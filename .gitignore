@@ -4,6 +4,10 @@
 
 /bin/
 
+.class
+
+.jar
+
 .classpath
 
 .project
