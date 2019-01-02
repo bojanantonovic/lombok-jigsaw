@@ -1,0 +1,4 @@
+module lombokjigsaw {
+
+	requires lombok;
+}
