@@ -1,11 +1,11 @@
 package main;
 
-import foo.Person;
+import foo.PersonWithData;
 
 public class Main {
 
 	public static void main(String... args) {
-		final var person = new Person();
+		final var person = new PersonWithData();
 
 		person.setFirstName("Donald");
 		person.setSecondName("Duck");

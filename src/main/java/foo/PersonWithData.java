@@ -3,7 +3,7 @@ package foo;
 import lombok.Data;
 
 @Data
-public class Person {
+public class PersonWithData {
 
 	private String secondName;
 
