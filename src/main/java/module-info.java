@@ -1,4 +1,4 @@
 module lombokjigsaw {
 
-	requires lombok;
+	requires static lombok;
 }
