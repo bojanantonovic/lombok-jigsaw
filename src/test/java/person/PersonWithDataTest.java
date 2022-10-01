@@ -1,4 +1,4 @@
-package foo;
+package person;
 
 import org.junit.jupiter.api.Test;
 

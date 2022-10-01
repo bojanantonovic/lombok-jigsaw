@@ -1,6 +1,6 @@
 package main;
 
-import foo.PersonWithData;
+import person.PersonWithData;
 
 public class Main {
 

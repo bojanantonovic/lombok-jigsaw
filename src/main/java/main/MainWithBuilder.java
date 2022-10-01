@@ -1,6 +1,6 @@
 package main;
 
-import foo.PersonWithBuilderAndGetter;
+import person.PersonWithBuilderAndGetter;
 
 public class MainWithBuilder {
 
